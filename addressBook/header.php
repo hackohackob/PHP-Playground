@@ -21,7 +21,7 @@
         echo '<div class="uk-navbar-flip">
         <ul class="uk-navbar-nav">
             <li>
-                <form method="post" action="/index.php">
+                <form method="post" action="./index.php">
                     <input type="hidden" name="logout" value="1">
                     <input class="uk-button uk-button-danger" type="submit" value="Log out">
                 </form>
