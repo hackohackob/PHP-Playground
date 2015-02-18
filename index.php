@@ -1,7 +1,3 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Atanas
- * Date: 17.2.2015 г.
- * Time: 1:04
- */
+
+echo '<h1 style="font-size:150px">CONNECTED</h1>';
