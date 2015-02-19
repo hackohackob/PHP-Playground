@@ -46,7 +46,7 @@ if($_GET) {
                 margin: 0px auto;
             } </style>
 
-        <form method="post" action="./addContact.php">
+        <form method="post" action="addContact.php">
             <div class="input-group input-group-lg">
                 <label>Name: <input type="text" placeholder="Name" name="name"></label><br>
                 <label>Phone: <input type="text" placeholder="Phone" name="phone"></label><br>
