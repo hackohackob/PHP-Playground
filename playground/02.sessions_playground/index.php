@@ -3,7 +3,7 @@ $pageTitle = 'Home';
 include './header.php';
 require './constants.php';
 session_start();
-ini_set('upload_max_filesize','30M');
+//ini_set('upload_max_filesize','30M');
 $activeWindow='Home';
 
 if (array_key_exists('isLogged', $_SESSION) && $_SESSION['isLogged'] == true) {
