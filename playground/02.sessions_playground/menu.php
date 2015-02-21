@@ -1,7 +1,7 @@
 <body>
 <nav class="uk-navbar uk-navbar-attached ">
     <ul class="uk-navbar-nav ">
-        <li><span href="./index.php" class="uk-navbar-brand">
+        <li><span class="uk-navbar-brand">
         <i class="uk-icon-folder-open"></i>
     </span></li>
         <li class="<?php if ($activeWindow == 'Home') {

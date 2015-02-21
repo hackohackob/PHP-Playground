@@ -14,21 +14,21 @@
 <body>
 <nav class="uk-navbar uk-navbar-attached">
     <ul class="uk-navbar-nav">
-        <li><a href="index.php">Home</a></li>
-        <li><a href="./other.php">Other</a></li>
+        <li><a href="./index.php">Home</a></li>
+        <li><a href="./form.php">Add a contact</a></li>
     </ul>
-    <?php if ($logged) {
-        echo '<div class="uk-navbar-flip">
-        <ul class="uk-navbar-nav">
-            <li>
-                <form method="post" action="index.php">
-                    <input type="hidden" name="logout" value="1">
-                    <input class="uk-button uk-button-danger" type="submit" value="Log out">
-                </form>
-            </li>
-        </ul>
-    </div>';
-    }
-    ?>
+<!--    --><?php //if ($logged) {
+//        echo '<div class="uk-navbar-flip">
+//        <ul class="uk-navbar-nav">
+//            <li>
+//                <form method="post" action="index.php">
+//                    <input type="hidden" name="logout" value="1">
+//                    <input class="uk-button uk-button-danger" type="submit" value="Log out">
+//                </form>
+//            </li>
+//        </ul>
+//    </div>';
+//    }
+//    ?>
 
 </nav>
