@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9c1e870-a6ea-4641-867a-4e6013e57370" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04.additional_playground/templates/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04.additional_playground/inc/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04.additional_playground/templates/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04.additional_playground/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04.additional_playground/templates/index_public.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\01.file_playground\addressBook\addContact.php" afterPath="$PROJECT_DIR$/01.file_playground/addressBook/addContact.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\01.file_playground\addressBook\constants.php" afterPath="$PROJECT_DIR$/01.file_playground/addressBook/constants.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\01.file_playground\addressBook\contacts.txt" afterPath="$PROJECT_DIR$/01.file_playground/addressBook/contacts.txt" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\01.file_playground\addressBook\footer.php" afterPath="$PROJECT_DIR$/01.file_playground/addressBook/footer.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\01.file_playground\addressBook\form.php" afterPath="$PROJECT_DIR$/01.file_playground/addressBook/form.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\01.file_playground\addressBook\header.php" afterPath="$PROJECT_DIR$/01.file_playground/addressBook/header.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\01.file_playground\addressBook\index.php" afterPath="$PROJECT_DIR$/01.file_playground/addressBook/index.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\avatars\cat.jpg" afterPath="$PROJECT_DIR$/02.sessions_playground/avatars/cat.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\avatars\elmo.jpeg" afterPath="$PROJECT_DIR$/02.sessions_playground/avatars/elmo.jpeg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\avatars\peca.jpg" afterPath="$PROJECT_DIR$/02.sessions_playground/avatars/peca.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\avatars\user-icon.png" afterPath="$PROJECT_DIR$/02.sessions_playground/avatars/user-icon.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\constants.php" afterPath="$PROJECT_DIR$/02.sessions_playground/constants.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\files.php" afterPath="$PROJECT_DIR$/02.sessions_playground/files.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\footer.php" afterPath="$PROJECT_DIR$/02.sessions_playground/footer.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\header.php" afterPath="$PROJECT_DIR$/02.sessions_playground/header.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\index.php" afterPath="$PROJECT_DIR$/02.sessions_playground/index.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\menu.php" afterPath="$PROJECT_DIR$/02.sessions_playground/menu.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\register.php" afterPath="$PROJECT_DIR$/02.sessions_playground/register.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\server.php" afterPath="$PROJECT_DIR$/02.sessions_playground/server.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\style.css" afterPath="$PROJECT_DIR$/02.sessions_playground/style.css" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\upload.php" afterPath="$PROJECT_DIR$/02.sessions_playground/upload.php" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\Djofrokofra\233.jpg" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/Djofrokofra/233.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\Djofrokofra\Nissan-Sport_Sedan_Concept_2014_1600x1200_wallpaper_01.jpg" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/Djofrokofra/Nissan-Sport_Sedan_Concept_2014_1600x1200_wallpaper_01.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\Hacko\234864.jpg" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/Hacko/234864.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\Hacko\Screenshot_2015-02-07-10-02-52.png" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/Hacko/Screenshot_2015-02-07-10-02-52.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\edno\1601088_770557319649176_1153165364162585146_n.jpg" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/edno/1601088_770557319649176_1153165364162585146_n.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\edno\Capture.JPG" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/edno/Capture.JPG" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\hackohackob\896001372.jpg" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/hackohackob/896001372.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\hackohackob\Capture.JPG" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/hackohackob/Capture.JPG" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\hackohackob\New Text Document.txt" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/hackohackob/New Text Document.txt" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\hackohackob\PANO_20150216_030045.jpg" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/hackohackob/PANO_20150216_030045.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\hackohackob\Untitled.png" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/hackohackob/Untitled.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\hackohackob\received_10200144948222205.jpeg" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/hackohackob/received_10200144948222205.jpeg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\peca-shmeca\20150115_090823-MOTION.gif" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/peca-shmeca/20150115_090823-MOTION.gif" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\peca-shmeca\I+lucid+dream+a+lot+but+my+worst+one+was+_f4783d3e43ed79426f3e416b93d7bbec.jpg" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/peca-shmeca/I+lucid+dream+a+lot+but+my+worst+one+was+_f4783d3e43ed79426f3e416b93d7bbec.jpg" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\peca-shmeca\New Text Document (2).txt" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/peca-shmeca/New Text Document (2).txt" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\uploads\peca-shmeca\Screenshot_2015-02-11-10-46-51.png" afterPath="$PROJECT_DIR$/02.sessions_playground/uploads/peca-shmeca/Screenshot_2015-02-11-10-46-51.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\02.sessions_playground\users.txt" afterPath="$PROJECT_DIR$/02.sessions_playground/users.txt" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\playground\03.databases_playground\first\firstMongoConnection.php" afterPath="$PROJECT_DIR$/03.databases_playground/simpleMongoConnection/firstMongoConnection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+    </list>
+    <ignored path="php_first_steps.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="php_first_steps" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DemoController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06.symfony_playground/01.firstTry/src/Acme/DemoBundle/Controller/DemoController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="170" max-vertical-offset="935">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05.laravel_playground/1.composerInstall/myProject/app/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0036166366" vertical-offset="2" max-vertical-offset="612">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_first_steps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_first_steps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_first_steps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="06.symfony_playground" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_first_steps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_first_steps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="06.symfony_playground" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01.firstTry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_first_steps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php_first_steps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9c1e870-a6ea-4641-867a-4e6013e57370" name="Default" comment="" />
+      <created>1425846934893</created>
+      <option name="number" value="Default" />
+      <updated>1425846934893</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="738" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33443162" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21709532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.50165015" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/06.symfony_playground/01.firstTry/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.symfony_playground/01.firstTry/src/Acme/DemoBundle/Controller/DemoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.symfony_playground/01.firstTry/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.symfony_playground/01.firstTry/web/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.symfony_playground/01.firstTry/web/app_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.symfony_playground/01.firstTry/web/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29166666" vertical-offset="55" max-vertical-offset="595">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.symfony_playground/01.firstTry/src/Acme/DemoBundle/Controller/DemoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="935">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.laravel_playground/1.composerInstall/myProject/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0036166366" vertical-offset="2" max-vertical-offset="612">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
